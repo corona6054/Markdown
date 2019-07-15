@@ -1,0 +1,10 @@
+# h1
+> cita
+1. numeracion 
+-bullet list
+___
+    code
+*cursiva* **negrita**
+<link>
+[hola](Link)
+![imagen](source)
